@@ -17,9 +17,12 @@ MonoBehaviour:
   - category: 0
     expectedIngredient: {fileID: 11400000, guid: 78e1fdf6b84c2364a85db0525da41972, type: 2}
     cookingMethod: 0
-  - category: 1
+  - category: 2
     expectedIngredient: {fileID: 11400000, guid: a54c8bc68431d6241a211ddbac47c569, type: 2}
     cookingMethod: 5
   - category: 2
     expectedIngredient: {fileID: 11400000, guid: da6a0d0cae6436445a06c33f2b7e3ce0, type: 2}
+    cookingMethod: 0
+  - category: 3
+    expectedIngredient: {fileID: 11400000, guid: c8a8ef02e5e4a3e44a77195b80e1fbb6, type: 2}
     cookingMethod: 0

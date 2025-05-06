@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e73974266e1f4940b7ed00aa4aecd20, type: 3}
   m_Name: Tomato
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: c81188e3aff57234fb84aaab69627119, type: 3}
   ingredientName: Tomato
   category: 3
   tasteProfile: 0
