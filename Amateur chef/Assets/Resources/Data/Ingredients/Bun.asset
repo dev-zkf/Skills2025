@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e73974266e1f4940b7ed00aa4aecd20, type: 3}
   m_Name: Bun
   m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 9e9995567ee7af74d9ad3f6e9f3fe96d, type: 3}
   ingredientName: Bun
   category: 0
   tasteProfile: 2

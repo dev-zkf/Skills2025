@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e73974266e1f4940b7ed00aa4aecd20, type: 3}
   m_Name: Lettuce
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
-  ingredientName: Lettuce
+  sprite: {fileID: 21300000, guid: 7217d58b899ee3d4f88f499b679c8436, type: 3}
+  ingredientName: Chicken
   category: 3
   tasteProfile: 0
