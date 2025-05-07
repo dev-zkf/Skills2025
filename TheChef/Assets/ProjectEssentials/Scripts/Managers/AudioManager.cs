@@ -41,7 +41,9 @@ public class AudioManager : MonoBehaviour
 	{
 		LoadVolumeSettings();
 
+		#if UNITY_EDITOR
 		parameters = GetExposedParameters(audioMixer);
+		#endif
 	}
 
 	public void PlaySoundEffect(SoundEffect seToPlay)
@@ -168,6 +170,7 @@ public class AudioManager : MonoBehaviour
 	}
 	#endregion
 	
+	#if UNITY_EDITOR
 	private List<string> GetExposedParameters(AudioMixer mixer)
 	{
 		List<string> exposedParams = new List<string>();
@@ -191,4 +194,5 @@ public class AudioManager : MonoBehaviour
 
 		return exposedParams;
 	}
+	#endif
 }

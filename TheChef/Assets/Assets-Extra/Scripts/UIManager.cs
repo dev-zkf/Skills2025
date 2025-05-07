@@ -62,4 +62,6 @@ public class UIManager : MonoBehaviour
         Debug.Log($"MainMenuEnabled: {MainMenuEnabled}, SettingsEnabled: {SettingsEnabled}, PauseMenuEnabled: {PauseMenuEnabled}");
     }
     
+    public void QuitGame() => Application.Quit();
+    
 }

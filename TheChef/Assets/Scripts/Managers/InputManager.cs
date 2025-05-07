@@ -1,12 +1,6 @@
 using NaughtyAttributes;
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.Interactions;
-using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class InputManager : MonoBehaviour
 {
