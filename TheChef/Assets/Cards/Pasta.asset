@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06f5cf65fa9734e4081b515a2ae4ed66, type: 3}
+  m_Name: Pasta
+  m_EditorClassIdentifier: 
+  Name: Pasta
+  Artwork: {fileID: 21300000, guid: ffe166763453de14aa4b6a635fd1025f, type: 3}
+  ManaCard: 0
+  ManaCost: 7
+  Attack: 6
+  Health: 1
